@@ -1,0 +1,24 @@
+
+
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient( 90deg,lightgreen ,yellow, lightgreen);
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    position: relative;
+    top: 25%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:orange;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
